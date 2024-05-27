@@ -6,7 +6,7 @@ type Props = {};
 const Feature1 = (props: Props) => {
   return (
     <View>
-      <Text>Feature1</Text>
+      <Text>Feature1 for test CI/CD </Text>
     </View>
   );
 };
